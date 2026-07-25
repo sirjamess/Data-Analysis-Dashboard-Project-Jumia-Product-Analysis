@@ -1,0 +1,20 @@
+# Credentials specific to this project
+.env
+.env.*
+*credentials*
+*secret*
+*password*
+*.pem
+*.key
+*.crt
+*.cer
+ca-certificate*
+aiven-ca*
+
+# Power BI temp/cache files
+*.pbix.bak
+.pbi/
+~$*.pbix
+*.pbix.lock
+Cache/
+TempFiles/
