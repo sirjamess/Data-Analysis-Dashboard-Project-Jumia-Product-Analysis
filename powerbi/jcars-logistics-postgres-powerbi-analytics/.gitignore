@@ -11,6 +11,7 @@
 ca-certificate*
 aiven-ca*
 
+
 # Power BI temp/cache files
 *.pbix.bak
 .pbi/
